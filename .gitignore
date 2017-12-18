@@ -1,0 +1,12 @@
+target/
+/git/nbproject
+.idea/
+*.log
+*.iml
+/git/*.iml
+
+
+.classpath
+.project
+.settings/
+
